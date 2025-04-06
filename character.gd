@@ -98,7 +98,7 @@ func process_state(delta: float):
 			# Skok kończy się po zakończeniu Timera
 			if jump_timer.time_left == 0:
 				velocity.y = jump_velocity
-				current_state = State.FALL
+				#current_state = State.FALL
 		State.FALL:
 			# Po wylądowaniu wraca do odpowiedniego stanu
 			if is_on_floor():
