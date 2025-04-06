@@ -3,7 +3,7 @@ extends CharacterBody3D
 @export var walk_speed: float = 180.0
 @export var run_speed: float = 400.0
 @export var crouch_speed: float = 100.0
-@export var jump_velocity: float = 800.0
+@export var jump_velocity: float = 900.0
 @export var gravity: float = 2000
 
 @onready var anim: AnimationPlayer = $AnimationPlayer
@@ -17,6 +17,9 @@ var current_state: State = State.IDLE
 # Zmienne pomocnicze
 var direction = Vector3.ZERO
 var is_moving = false
+
+func _ready():
+	$JumpTimer.timeout.connect(Callable(self, "_on_JumpTimer_timeout"))
 
 func _physics_process(delta: float):
 	update_movement(delta)
@@ -95,10 +98,8 @@ func process_state(delta: float):
 				current_state = State.IDLE
 				play_looping_animation("idle")
 		State.JUMP:
-			# Skok kończy się po zakończeniu Timera
-			if jump_timer.time_left == 0:
-				velocity.y = jump_velocity
-				#current_state = State.FALL
+			pass # Czekaj, aż timer sie skończy
+
 		State.FALL:
 			# Po wylądowaniu wraca do odpowiedniego stanu
 			if is_on_floor():
