@@ -1,0 +1,22 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1743935260
+Character.cs::CSharpScript/CSharpScript::527530569464580130::1742661362::0::1::::<><><>0<>0<><>::
+character.gd::GDScript::6154362211391910416::1743935100::0::1::::<>CharacterBody3D<><>0<>0<><>::
+character.tscn::PackedScene/PackedScene::7089504909883858433::1742743212::0::1::::<><><>0<>0<><>::uid://bpfcen8n8elv6::::res://toon_yellow.tres
+icon.svg::CompressedTexture2D/CompressedTexture2D::3472353177955109048::1742471979::1743935452::1::::<><><>0<>0<>65d462341b0d320da702eedf6eea6634<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.s3tc.ctex::
+main.tscn::PackedScene::770640687467496384::1743935260::0::1::::<><><>0<>0<><>::uid://ctxhpgdt76jvk::::res://character.gd<>uid://bpfcen8n8elv6::::res://toon_yellow.tres
+Outline.gdshader::Shader::4439850091099611747::1743935260::0::1::::<><><>0<>0<><>::
+toon_yellow.tres::StandardMaterial3D::3449704538612066085::1743931758::0::1::::<><><>0<>0<><>::uid://b4ixxg1knxfah::::res://Outline.gdshader
+::res://3D Character/::1742468757
+::res://3D Character/Poopeon/::1742508359
+character.glb::PackedScene/PackedScene::3956698599770408893::1742508353::1742508359::1::::<><><>0<>0<>1a9796f4327021bb5e66ac9f54c39707<>res://.godot/imported/character.glb-f16424b1963ded118e0aae2736a99154.scn::
+::res://3D Character/Poopeon/FBX/::1742472057
+Crouch Idle.fbx::PackedScene/PackedScene::988692811417555493::1742469061::1742472052::1::::<><><>0<>0<>482f11ba0e32d6989c6292ac02f67358<>res://.godot/imported/Crouch Idle.fbx-8e945ecf2373ef86655d1528f442182c.scn::
+Crouched Walking.fbx::PackedScene/PackedScene::423907421500575135::1742470263::1742472053::1::::<><><>0<>0<>0ccb7e05bb865fccec4c90c5ca776416<>res://.godot/imported/Crouched Walking.fbx-bcc9675fe71f2ec2fce2c0b432682e1a.scn::
+Idle.fbx::PackedScene/PackedScene::6191348273138225473::1742469894::1742472053::1::::<><><>0<>0<>b60b46d2428d763fd1a178481212beff<>res://.godot/imported/Idle.fbx-df22be4f5b447d227e0f1738cc170502.scn::
+Jumping2.fbx::PackedScene/PackedScene::3507336635465287125::1742469420::1742472054::1::::<><><>0<>0<>5302b9430b33245ac0f88a9e325afb17<>res://.godot/imported/Jumping2.fbx-73e9bece57c767b8b1f84d2b3eb1b5c4.scn::
+Jumping.fbx::PackedScene/PackedScene::5985552279140910448::1742469374::1742472055::1::::<><><>0<>0<>d68ff91665d6670fdf4913152e4c394d<>res://.godot/imported/Jumping.fbx-9d7cdf01a5b1d798fcaa4048ca573c7f.scn::
+Knife Idle.fbx::PackedScene/PackedScene::1037887060575371228::1742469960::1742472055::1::::<><><>0<>0<>b51905658b2f755910b978cecf11c576<>res://.godot/imported/Knife Idle.fbx-98c913a81bdb7eee920d44f88cadd82b.scn::
+Running Slide.fbx::PackedScene/PackedScene::5166847421043292797::1742468817::1742472056::1::::<><><>0<>0<>4870a8482f136bf54ec7a3c1f3b2b2cf<>res://.godot/imported/Running Slide.fbx-747ae61f875a5bf0220667cd5fe00d00.scn::
+Running.fbx::PackedScene/PackedScene::5754124859272531367::1742468879::1742472056::1::::<><><>0<>0<>0a01e35d1047369b344bc9993324880e<>res://.godot/imported/Running.fbx-08e9627c1546fe9975cddc811132e443.scn::
+Walking.fbx::PackedScene/PackedScene::7005831742576184587::1742467968::1742472057::1::::<><><>0<>0<>1b25a915d6ebebcc39f1f5fef12f6781<>res://.godot/imported/Walking.fbx-e3a0898c877f9174bdf166481f7a71b1.scn::

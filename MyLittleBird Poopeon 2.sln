@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLittleBird Poopeon 2", "MyLittleBird Poopeon 2.csproj", "{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{CC1AE698-CE56-44CF-8439-02B0AB3DBCDF}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

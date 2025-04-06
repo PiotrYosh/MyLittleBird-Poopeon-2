@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desktop\\mylittlebird poopeon 2\\MyLittleBird Poopeon 2.csproj": {}
+  },
+  "projects": {
+    "D:\\Desktop\\mylittlebird poopeon 2\\MyLittleBird Poopeon 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\mylittlebird poopeon 2\\MyLittleBird Poopeon 2.csproj",
+        "projectName": "MyLittleBird Poopeon 2",
+        "projectPath": "D:\\Desktop\\mylittlebird poopeon 2\\MyLittleBird Poopeon 2.csproj",
+        "packagesPath": "C:\\Users\\pioos\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\mylittlebird poopeon 2\\.godot\\mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pioos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Godot.SourceGenerators": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "GodotSharp": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "GodotSharpEditor": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

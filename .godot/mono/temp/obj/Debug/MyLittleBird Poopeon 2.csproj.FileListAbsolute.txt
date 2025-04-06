@@ -1,0 +1,17 @@
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\bin\Debug\MyLittleBird Poopeon 2.deps.json
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\bin\Debug\MyLittleBird Poopeon 2.runtimeconfig.json
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\bin\Debug\MyLittleBird Poopeon 2.dll
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\bin\Debug\MyLittleBird Poopeon 2.pdb
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.csproj.AssemblyReference.cache
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.AssemblyInfoInputs.cache
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.AssemblyInfo.cs
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.csproj.CoreCompileInputs.cache
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittle.59552A8F.Up2Date
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.dll
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\refint\MyLittleBird Poopeon 2.dll
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.pdb
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\MyLittleBird Poopeon 2.genruntimeconfig.cache
+D:\Desktop\mylittlebird poopeon 2\.godot\mono\temp\obj\Debug\ref\MyLittleBird Poopeon 2.dll

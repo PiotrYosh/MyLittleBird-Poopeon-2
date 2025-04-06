@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9hGJR1dJGI=",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\mylittlebird poopeon 2\\MyLittleBird Poopeon 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pioos\\.nuget\\packages\\godot.sourcegenerators\\4.4.0\\godot.sourcegenerators.4.4.0.nupkg.sha512",
+    "C:\\Users\\pioos\\.nuget\\packages\\godotsharp\\4.4.0\\godotsharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\pioos\\.nuget\\packages\\godotsharpeditor\\4.4.0\\godotsharpeditor.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
