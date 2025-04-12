@@ -19,6 +19,8 @@ var direction = Vector3.ZERO
 var is_moving = false
 
 func _ready():
+	$Armature/Skeleton3D.physical_bones_start_simulation()
+	#$Armature/Skeleton3D.physical_bones_active = true
 	$JumpTimer.timeout.connect(Callable(self, "_on_JumpTimer_timeout"))
 
 func _physics_process(delta: float):

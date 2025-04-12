@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyLittleBird Poopeon 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f7c2352881ce4d648a97e374fbfe9b58871e9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8ab5563d26599ff2e7f9b0d37ca36d7ec760f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLittleBird Poopeon 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLittleBird Poopeon 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
